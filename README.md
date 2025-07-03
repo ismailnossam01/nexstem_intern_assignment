@@ -392,21 +392,6 @@ module.exports = {
 - Touch-optimized controls
 - **FIXED**: Dynamic control positioning to avoid overlaps with proper dark theme support
 
-## 🚀 Deployment
-
-### Build Process
-1. **Development**: `npm run dev` - Starts Vite dev server
-2. **Build**: `npm run build` - Creates production build
-3. **Preview**: `npm run preview` - Preview production build locally
-
-### Deployment Platforms
-- **Vercel**: Automatic deployments from Git
-- **Netlify**: Drag-and-drop or Git integration
-- **GitHub Pages**: Static site hosting
-- **AWS S3**: Static website hosting
-
-### Environment Variables
-No environment variables required for basic functionality.
 
 ## 🧪 Testing Strategy
 
@@ -445,32 +430,6 @@ No environment variables required for basic functionality.
 npm run build
 npx vite-bundle-analyzer dist
 ```
-
-## 🤝 Contributing
-
-### Development Guidelines
-1. Follow TypeScript best practices
-2. Use Tailwind CSS for styling
-3. Implement responsive design
-4. Add proper error handling
-5. Write clear, documented code
-
-### Code Style
-- Use ESLint configuration
-- Follow React hooks best practices
-- Implement proper TypeScript types
-- Use meaningful variable names
-
-
-
-## 🙏 Acknowledgments
-
-- **ReactFlow Team** - For the excellent graph visualization library
-- **Tailwind CSS** - For the utility-first CSS framework
-- **Lucide Icons** - For the beautiful icon set
-- **Dagre** - For the graph layout algorithm
-- **Vite Team** - For the fast build tool
-
 
 **Built with ❤️ using React, TypeScript, and modern web technologies**
 
