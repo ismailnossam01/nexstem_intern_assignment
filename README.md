@@ -2,7 +2,7 @@
 
 A professional React-based Pipeline Editor that allows users to visually create and manage Directed Acyclic Graphs (DAGs). This tool simulates how real-time data pipelines or processing workflows are constructed using interconnected nodes.
 
-![Pipeline Editor Demo](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Pipeline+Editor+Demo)
+![Pipeline Editor Demo https://nexstempipelineeditor.netlify.app/](https://nexstempipelineeditor.netlify.app/)
 
 ## 🌟 Features
 
