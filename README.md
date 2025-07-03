@@ -7,15 +7,15 @@ A professional React-based Pipeline Editor that allows users to visually create 
 ## 🎥 Demo Media
 
 ### 📺 Screen Recording
-[Click here to watch the video demo](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screencast%20from%202025-07-03%2022-31-26.webm)
+[Click here to watch the video demo](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screencast%20from%202025-07-03%2022-31-26.mp4)
 
 ### 📸 Screenshots
 
-#### 🖼️ Light Mode Editor
+#### 🖼️ Dark Mode Editor
 ![Light Mode](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screenshot%20from%202025-07-03%2022-35-16.png)
 
-#### 🌑 Dark Mode Editor
-![Dark Mode](./public/screenshots/editor-dark.png)
+#### 🌑 Light Mode Editor
+![Dark Mode](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screenshot%20from%202025-07-03%2022-35-46.png)
 
 
 ## 🌟 Features
