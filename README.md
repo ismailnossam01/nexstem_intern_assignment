@@ -7,7 +7,7 @@ A professional React-based Pipeline Editor that allows users to visually create 
 ## 🎥 Demo Media
 
 ### 📺 Screen Recording
-[Click here to watch the video demo](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screencast%20from%202025-07-03%2022-31-26.mp4)
+[Click here to watch the video demo](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screencast%20from%202025-07-03%2022-31-26.webm)
 
 ### 📸 Screenshots
 
