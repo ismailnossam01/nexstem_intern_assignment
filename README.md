@@ -61,8 +61,7 @@ A professional React-based Pipeline Editor that allows users to visually create 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd pipeline-editor-dag-builder
+   git clone https://github.com/ismailnossam01/nexstem_intern_assignment.git
    ```
 
 2. **Install dependencies**
@@ -462,9 +461,7 @@ npx vite-bundle-analyzer dist
 - Implement proper TypeScript types
 - Use meaningful variable names
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -474,15 +471,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Dagre** - For the graph layout algorithm
 - **Vite Team** - For the fast build tool
 
-## 📞 Support
-
-For questions, issues, or contributions:
-- Create an issue on GitHub
-- Check the documentation
-- Review the code examples
-- Test on the live demo
-
----
 
 **Built with ❤️ using React, TypeScript, and modern web technologies**
 
