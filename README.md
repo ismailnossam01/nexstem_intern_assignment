@@ -4,6 +4,20 @@ A professional React-based Pipeline Editor that allows users to visually create 
 
 [Pipeline Editor Demo https://nexstempipelineeditor.netlify.app/](https://nexstempipelineeditor.netlify.app/)
 
+## 🎥 Demo Media
+
+### 📺 Screen Recording
+[Click here to watch the video demo](https://www.loom.com/share/YOUR_VIDEO_ID)
+
+### 📸 Screenshots
+
+#### 🖼️ Light Mode Editor
+![Light Mode](./public/screenshots/editor-light.png)
+
+#### 🌑 Dark Mode Editor
+![Dark Mode](./public/screenshots/editor-dark.png)
+
+
 ## 🌟 Features
 
 ### Core Functionality
