@@ -12,7 +12,7 @@ A professional React-based Pipeline Editor that allows users to visually create 
 ### 📸 Screenshots
 
 #### 🖼️ Light Mode Editor
-![Light Mode](./public/screenshots/editor-light.png)
+![Light Mode](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screenshot%20from%202025-07-03%2022-35-16.png)
 
 #### 🌑 Dark Mode Editor
 ![Dark Mode](./public/screenshots/editor-dark.png)
